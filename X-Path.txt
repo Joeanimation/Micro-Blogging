@@ -1,0 +1,8 @@
+1. Get all usernames:
+    /microbloggingSite/user/username
+
+2. Get all posts containing the hashtag "#programming"
+    /microbloggingSite/user/posts/post[contains(content, '#programming')]/content
+
+3. Get the number of followers of user2:
+    /microbloggingSite/user[username='user2']/followers
