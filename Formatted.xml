@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Twitter>
+   <user>
+      <username>Cherry@Jelo</username>
+      <fullname>Wisdom Amoah Joe</fullname>
+      <bio>A passionate coder and technology enthusiast.</bio>
+      <followers>1.5k</followers>
+      <following>200</following>
+      <posts>
+         <post id="1">
+            <content>Hello Ahmed! #firstpost</content>
+            <timestamp>2024-03-12T08:00:00Z</timestamp>
+         </post>
+         <post id="2">
+            <content>Just finished a coding marathon. #programming</content>
+            <timestamp>2024-03-12T20:30:00Z</timestamp>
+         </post>
+      </posts>
+   </user>
+   <user>
+      <username>Borosky_Gh</username>
+      <fullname>Joshua Amoah</fullname>
+      <bio>Lover of books, movies, and all things creative.</bio>
+      <followers>1k</followers>
+      <following>500</following>
+      <posts>
+         <post id="1">
+            <content>Finally watched the latest Avengers movie. It was amazing! #Avengers</content>
+            <timestamp>2024-03-14T22:15:00Z</timestamp>
+         </post>
+         <post id="2">
+            <content>Just started reading a new fantasy novel. #bookworm</content>
+            <timestamp>2024-03-14T23:25:00Z</timestamp>
+         </post>
+      </posts>
+   </user>
+</Twitter>
